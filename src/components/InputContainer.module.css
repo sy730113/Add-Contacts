@@ -1,0 +1,22 @@
+.inputContainer{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.searchIcon{
+    position: absolute;
+    left: 0;
+    font-size: large;
+    color: aliceblue;
+    top: 5px;
+    padding: 10px;
+    margin-right: 10px;
+}
+.addIcon{
+   
+    font-size: 50px;
+    color: aliceblue;
+    
+}
